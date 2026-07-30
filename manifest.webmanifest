@@ -1,0 +1,15 @@
+{
+  "name": "LexiLift Vocabulary Coach",
+  "short_name": "LexiLift",
+  "description": "A mobile-first productive vocabulary coach for academic, professional, and American English phrasal verbs.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"assets/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"assets/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
